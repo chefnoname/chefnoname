@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently navigating life day-by-day
-- 🌱 A Jr. Dev starting his journey through tech
+- 🌱 A Frontend Dev with BIG dreams ☁️🌇
 - 💬 Ask me about FrontEnd Technologies!
 - 📫 How to reach me: abdicodes94@gmail.com
 
